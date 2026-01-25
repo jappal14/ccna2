@@ -646,7 +646,7 @@ conf t
    name 2272
 !
   voice register pool 1
-    id mac ____.____.____
+    id mac AE50.F12B.612A
     number 1 dn 1
     dtmf-relay sip-notify
     username 2271 password 2271
@@ -672,6 +672,7 @@ exit
           
 sip-ua
 sip-server ipv4:192.168.k.1
+
 
 
 
