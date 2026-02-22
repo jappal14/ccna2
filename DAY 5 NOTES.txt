@@ -1,0 +1,81 @@
+NOC/MSP Provider: BM Global Services Inc:
+
+root
+C1sc0123
+ip addr
+c> ping 208.8.8.133
+http://208.8.8.133/otrs/index.pl
+ADMIN > 
+queues
+types
+
+
+http://208.8.8.133/otrs/customer.pl
+
+root@localhost
+C1sc0123
+WHO: NOC L1/T1: IncindentResponder
+WHO: NOC L2/T2: IncindentResponder
+
+
+Customer: BPI BANKING CORP.
+Customeruser: ayalanoc@bpi.com.ph
+
+
+
+03 Tier Architecture - AUTOCON in CCNA github
+
+
+
+D3PentestVM
+hacking tool
+kali
+kali
+terminal 
+sudo su
+kali
+
+yersinia -G
+Launch Attack
+DTP tab
+click enabling trunking
+
+core baba
+show int trunk
+PORT: Fa0/1
+
+
+
+
+
+config t
+Int Range e0/1-3
+ switchport trunk Encap Dot1Q
+ switchport mode trunk
+ switchport trunk allowed vlan 1-99
+ switchport trunk native vlan 1
+ no shut
+ do sh int trunk
+exit
+Int Range e0/1-3
+ channel-group 1 mode active
+ channel-protocol Lacp
+ do sh etherchannel summary
+ do sh int po1 | inc BW
+
+
+
+
+BATTLE A: NETWORK ENG/ADMIN IN 2026
+TARGET: 
+NETWORK ENGINEER CCNA & CCNP CERT | HYBRID | MAKATI
+START: FEB 22, 2026
+FINISH: JUNE 22, 2026
+
+STEP1: GOLDEN RULE 
+1 RESUME - 1 COMPANY
+
+STEP2: TIME FRAME: LEVERAGE
+FAKE IT TILL YOU GET IT
+FEB22: 
+PRETEND TO BE PASADO IN CV/RESUME/
